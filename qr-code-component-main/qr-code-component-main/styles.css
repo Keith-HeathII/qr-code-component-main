@@ -1,0 +1,35 @@
+body{
+    background: #a8dfff;
+}
+
+#QR-code-component{
+    width: 325px;
+    margin: 50px auto;
+    background: white;
+    text-align: center;
+    font-family: "Outfit", sans-serif;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+
+#QR-code-img{
+    width: 320px;
+    display: block;
+    margin: 5px auto;
+    border-radius: 10px;
+}
+
+h4{
+    font-size: 27px;
+    font-weight: 600;
+    margin: 10px 0 10px 0;
+}
+
+
+p{
+    font-weight: 300;
+    font-size: 19px;
+    color: rgb(130, 145, 160);
+    margin: 19px 0 19px 0;
+}
